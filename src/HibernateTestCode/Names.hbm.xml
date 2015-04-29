@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-4-28 15:53:07 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="HibernateTestCode.Names" table="names" catalog="prf">
+        <id name="name" type="string">
+            <column name="name" length="30" />
+            <generator class="assigned" />
+        </id>
+        <property name="country" type="string">
+            <column name="country" length="30" />
+        </property>
+        <property name="value" type="java.lang.Integer">
+            <column name="value" />
+        </property>
+    </class>
+</hibernate-mapping>

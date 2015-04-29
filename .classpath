@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/antlr-2.7.6rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hibernate包/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/ehcache-1.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/5e731d961297e5a07290bfaf3db1fbc8bbbf405a/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.5.Final/8ba469a4749447a8e9a04f229c8017f60f9a04c9/hibernate-core-4.3.5.Final.jar" sourcepath="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/4.3.5.Final/a16cf5c500df5a6dfb4c0c09ce145c403dddcbea/hibernate-core-4.3.5.Final-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
